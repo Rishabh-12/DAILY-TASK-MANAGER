@@ -1,1 +1,3 @@
 # DAILY-TASK-MANAGER
+
+This project is a "Daily Task Manager" designed to help manage and track study tasks for Class 12 subjects such as Mathematics, Physics, Chemistry, and Computer Science. Developed using Python and MySQL, the system allows users to select tasks from the official syllabus, assign time limits, and monitor task completion. It records whether tasks are completed or not, captures reasons for incomplete tasks, and generates visual productivity graphs for performance analysis. Users can add, review, and analyze task details based on their study progress and individual goals, promoting better time management and academic productivity.
